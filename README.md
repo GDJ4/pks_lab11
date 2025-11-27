@@ -41,4 +41,7 @@ lib/main.dart: тема, экран входа с брендингом и кно
 - Ошибка удаления: элемент возвращается в список, показывается сообщение.
 
 ## Скриншоты
-# pks_lab11
+
+<img width="984" height="745" alt="2025-11-28_00-35-16" src="https://github.com/user-attachments/assets/52652228-fbbd-455f-8679-a83c175f204b" />
+<img width="947" height="747" alt="2025-11-28_00-35-29" src="https://github.com/user-attachments/assets/1b2b1d6f-274e-4e51-9cfb-14c35273440d" />
+
